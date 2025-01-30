@@ -13,10 +13,10 @@ This is a quiz application built using React that allows users to take a quiz, a
 ## How to Use
 1. **Clone the repository**:
    ``bash``
-    git clone <repository-url>
+    git clone repository-url
 
 3. **Navigate to the project directory**:
-    cd <project-directory>
+    cd project-directory
 
 4. **Install dependencies**:
     npm install
