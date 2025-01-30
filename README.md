@@ -23,7 +23,7 @@ This is a quiz application built using React that allows users to take a quiz, a
 
 4. **Start the development server**:
     npm run dev
-    The app will be available at http://localhost:3000.
+The app will be available at http://localhost:3000.
 
 **Technologies Used**
 **React**: Frontend library for building user interfaces.
