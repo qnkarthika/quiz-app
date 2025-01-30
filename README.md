@@ -31,7 +31,7 @@ The app will be available at http://localhost:3000.
 **CSS**: Used for styling and ensuring a responsive layout.
 
 **Screenshots**
-https://drive.google.com/drive/folders/1jaV1WiXg_opJUAD4mWs1tz2ysHmlgLkS?usp=drive_link
+https://drive.google.com/drive/folders/1jaV1WiXg_opJUAD4mWs1tz2ysHmlgLkS?usp=sharing
 
 **Demo Video**
 https://drive.google.com/file/d/1ShpMGhShQFJDAvA--o8bGqIgPr36cete/view?usp=sharing
