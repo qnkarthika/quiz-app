@@ -31,6 +31,7 @@ This is a quiz application built using React that allows users to take a quiz, a
 **CSS**: Used for styling and ensuring a responsive layout.
 
 **Screenshots**
-
+https://drive.google.com/drive/folders/1jaV1WiXg_opJUAD4mWs1tz2ysHmlgLkS?usp=drive_link
 
 **Demo Video**
+https://drive.google.com/file/d/1ShpMGhShQFJDAvA--o8bGqIgPr36cete/view?usp=sharing
