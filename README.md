@@ -1,18 +1,17 @@
 # Quiz App
 
 ## Overview
-This is a quiz application built using React that allows users to take a quiz, answer multiple-choice questions, and view their score upon completion. The app fetches quiz data from an external API, and includes features such as a countdown timer, automatic quiz submission when time runs out, and a results page showing correct answers and user feedback.
+This is a quiz application built using React that allows users to take a quiz, answer multiple-choice questions, and view their score upon completion. The app fetches quiz data from an external API, and includes features such as a countdown timer, automatic quiz submission when time runs out, and a results page showing correct answers.
 
 ## Features
 - **API Integration**: The app fetches quiz data, including questions, options, and the correct answers, from an external API.
-- **Timer**: A countdown timer of 3 minutes is displayed, and the quiz is automatically submitted once the time expires.
+- **Timer**: A countdown timer of 15 minutes is displayed, and the quiz is automatically submitted once the time expires.
 - **Multiple Choice Questions**: Each question has multiple options, and users can select their answers using radio buttons.
 - **Results Display**: After submitting the quiz, users are shown their score along with the correct answers and their selected answers.
 - **Mobile and Desktop Friendly**: The app is responsive and works well on both desktop and mobile devices.
 
 ## How to Use
 1. **Clone the repository**:
-    ```bash
     git clone <repository-url>
 
 2. **Navigate to the project directory**:
